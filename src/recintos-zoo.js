@@ -63,5 +63,5 @@ class RecintosZoo {
 }
 
 const zoo = new RecintosZoo();
-const resultado = zoo.analiseRecintos("MACACO", );
+const resultado = zoo.analiseRecintos("MACACO", 2);
 console.log(resultado);
